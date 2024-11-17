@@ -1,0 +1,10 @@
+{
+	"site": "login.qa.studio",
+	"site2": "pokemonbattle.ru",
+	"login": "german@dolnikov.ru",
+	"NotCorrectlogin": "chupakabra@qa.ru",
+	"password": "iLoveqastudio1",
+	"NotCorrectPassword":" 123iLoveqastudio1",
+	"loginNoDog": "germandolnikov.ru",
+	"loginUpDown": "GerMan@Dolnikov.ru"
+}
